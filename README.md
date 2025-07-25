@@ -1,38 +1,202 @@
-# Tujijenge Product Documentation
-
-Tujijenge is a digital platform dedicated to empowering small-scale vegetable vendors known as Mama Mbogas, represented by Mama Mwangi from Juja, Nairobi. The platform addresses key challenges faced by these vendors, including unpredictable market prices, inefficiencies in stock management, limited access to fresh produce, and competition with large supermarkets.
-
-
-## Project Overview
-
-Tujijenge streamlines supply chains by enabling:
-
-- Efficient inventory and stock management
-
-- Group ordering with trusted suppliers like Taimba
-
-- Access to health, business, and digital skills training via GAIN
-
-- Digital certification to build customer trust and compliance
-
-
-The system comprises a *mobile app* used by Mama Mbogas and *web portals* for partners such as GAIN and Taimba, facilitating smooth collaboration and enhanced operational efficiency.
+Tujijenge 
 
 
 
-## Documentation Structure
-- [Introduction](introduction.md): Platform overview, problem statement, personas, stakeholders.
-- [Getting Started](getting-started.md): Quick setup for vendors and partners.
-- [Vendor Guide](vendor-guide.md): How Mama Mbogas use the mobile app for stock and orders.
-- [Partner Guide](stakeholder-guide.md): For GAIN and Taimba users managing training and orders.
-- [Group Buying](community-guide.md): Explanation of group ordering system.
-- [Technical Information](technical-info.md): Architecture, integrations, data management.
-- [FAQs](faq.md): Answers to common questions from all user groups.
-- [Out of Scope Features](out-of-scope.md): Features not included in MVP and rationale.
-- [Success Metrics](success-metrics.md): KPIs and tracking methods.
+Empowering Mama Mbogas to thrive
+Tujijenge is a digital platform designed to uplift small-scale vegetable vendors, known as Mama Mbogas, in markets like Juja, Nairobi. By addressing challenges such as unpredictable prices, inefficient stock management, and limited access to fresh produce, Tujijenge streamlines supply chains and fosters growth through:
 
 
 
-Thank you for supporting and using Tujijenge to uplift Mama Mbogas and strengthen community commerce!
 
 
+Efficient inventory and stock management
+
+
+
+Group ordering with trusted suppliers like Taimba
+
+
+
+Access to health, business, and digital skills training via GAIN
+
+
+
+Digital certification to build customer trust and compliance
+
+The platform includes a mobile app for Mama Mbogas and web portals for partners (GAIN and Taimba), ensuring seamless collaboration and operational efficiency.
+
+
+
+
+
+Documentation
+
+Explore our comprehensive documentation to get started and dive deeper into Tujijenge’s features:
+
+
+
+
+
+Introduction: Project overview, problem statement, and personas
+
+
+
+Getting Started: How to access and use the apps
+
+
+
+Vendor Guide: Step-by-step guide for Mama Mbogas on inventory, group orders, and training
+
+
+
+GAIN Partner Guide: Managing training, certification, and impact tracking
+
+
+
+Taimba Supplier Guide: Managing stock, orders, and fulfillment
+
+
+
+Group Buying System: How group ordering works and its benefits
+
+
+
+User Flows & Customer Journey: Visualized stakeholder interactions
+
+
+
+Technical Information: Architecture, tech stack, and integrations
+
+
+
+FAQs: Answers to common questions for all users
+
+
+
+Out-of-Scope Features: Features planned for future phases
+
+
+
+🚀 Getting Started
+
+For Mama Mbogas
+
+
+
+
+
+Download the Tujijenge app from the Google Play Store.
+
+
+
+Register with your kiosk details and start managing inventory.
+
+
+
+Join group orders and access training from GAIN.
+
+For Partners (GAIN & Taimba)
+
+
+
+
+
+Access the respective web portals to manage training, certifications, or stock.
+
+
+
+Refer to the Getting Started guide for detailed instructions.
+
+
+
+🛠️ Technical Overview
+
+
+
+
+
+Mobile App: Android-native for Mama Mbogas
+
+
+
+Web Portals: Responsive websites for GAIN and Taimba
+
+
+
+Backend: Centralized API with PostgreSQL database
+
+
+
+Integrations: M-Pesa for payments, geolocation for group orders, and push notifications
+
+
+
+Analytics: Firebase and PostgreSQL logs for usage trends
+
+See Technical Information for details.
+
+
+
+📊 Success Metrics
+
+
+
+
+
+User Engagement: Monthly active users and registrations
+
+
+
+Order Volumes: Frequency of group and individual orders
+
+
+
+Training Participation: Attendance and certification rates
+
+
+
+Feedback Loops: Surveys for continuous improvement
+
+
+
+Assets & Resources
+
+
+
+
+
+Screenshots: View app and portal visuals in /assets/screenshots/
+
+
+
+Diagrams: System architecture and ERD in /assets/diagrams/
+
+
+
+User Flows: Detailed in user-flows.md
+
+
+
+Contributing
+
+We welcome contributions! Please read our Contributing Guidelines and submit issues or pull requests via GitHub.
+
+
+
+Support
+
+For questions or support:
+
+
+
+
+
+Mama Mbogas: Check FAQs or contact via WhatsApp (link in app).
+
+
+
+Partners: Reach out through the web portals or email support@tujijenge.co.ke.
+
+
+
+Thank you for supporting Tujijenge! Together, we empower Mama Mbogas and their communities to build healthier, thriving small businesses. 🌟
